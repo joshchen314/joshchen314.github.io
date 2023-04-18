@@ -5,7 +5,7 @@
 ### Project List
 
 [Loan Approval Prediction](/Loan-Approval-Prediction)
-<img src="P00120230418.PNG?raw=true"/>
+<img src="images/P00120230418.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/Case-Study-Bellabeat-Analysis-Using-Python)
