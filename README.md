@@ -1,4 +1,4 @@
-## HsienYeh's data science and ML portfolio project
+## Hsien-Yeh's data science and ML portfolio project
 
 ___
 
