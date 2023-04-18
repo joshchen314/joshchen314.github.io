@@ -17,7 +17,8 @@ The project's goal is to predict whether a loan will not be paid back rather tha
 <img src="images/P00120230418.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/Case-Study-Bellabeat-Analysis-Using-Python)
+[Case Study Bellabeat Analysis Using Python](/Case-Study-Bellabeat-Analysis-Using-Python)
+
 This project shows application ofthe six steps of data analysis in Google Data Analytics. 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
