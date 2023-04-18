@@ -5,11 +5,13 @@
 
 [Loan Approval Prediction](/Loan-Approval-Prediction)
 
-The project's goal is to predict whether a loan will not be paid back rather than if a loan is paid back.
+The project's goal is to predict whether a loan will not be paid back rather than if a loan is paid back. After data exploration, preprocessing and model training, the web app with ML model will be deployed at HuggingFace Hub.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
 [View code on Github](https://github.com/joshchen314/Loan-Approval-Prediction)
+
+[View web app on Github](https://huggingface.co/spaces/joshchentw/LoanApprovalPrediction)
 
 <img src="images/P00120230418.PNG?raw=true"/>
 
