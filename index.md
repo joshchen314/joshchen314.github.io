@@ -2,7 +2,6 @@
 
 ---
 
-### Projects List
 
 [Loan Approval Prediction](/Loan-Approval-Prediction)
 
