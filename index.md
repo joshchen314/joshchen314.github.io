@@ -9,7 +9,7 @@ The project's goal is to predict whether a loan will not be paid back rather tha
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
-[View code on Github](https://github.com/joshchen314/Loan-Approval-Prediction)
+[View code on Github](https://github.com/joshchen314/Loan-Approval-Prediction/blob/main/loan-approval-prediction.ipynb)
 
 [View web app on Github](https://huggingface.co/spaces/joshchentw/LoanApprovalPrediction)
 
@@ -22,6 +22,6 @@ This project shows application ofthe six steps of data analysis in Google Data A
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
-[View code on Github](https://github.com/joshchen314/Case-Study-Bellabeat-Analysis-Using-Python)
+[View code on Github](https://github.com/joshchen314/Case-Study-Bellabeat-Analysis-Using-Python/blob/main/case-study-bellabeat-analysis-using-python.ipynb)
 
 ---
