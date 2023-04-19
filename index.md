@@ -11,6 +11,8 @@ The project's goal is to predict whether a loan will not be paid back rather tha
 
 [View code on Github](https://github.com/joshchen314/Loan-Approval-Prediction/blob/main/loan-approval-prediction.ipynb)
 
+[View code on Kaggle](https://www.kaggle.com/code/joshchen314/loan-approval-prediction)
+
 [View web app on Hugging Face Hub](https://huggingface.co/spaces/joshchentw/LoanApprovalPrediction)
 
 <img src="images/P00120230418.PNG?raw=true"/>
