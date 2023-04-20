@@ -6,4 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/hsien-yeh-chen-6b652979/">View My LinkedIn Profile</a> 
   
 remote_theme: jekyll/minima
+plugins:
+ - jekyll-remote-theme
 google_analytics: G-MKTLTP3WL2 # your Google Analytics tracking ID here
