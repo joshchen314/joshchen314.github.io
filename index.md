@@ -9,7 +9,7 @@ This project emulates this concept to exhibit the performance and trends of Taiw
 
 [View code on Github](https://github.com/joshchen314/tw_stock_treemap/blob/main/tw_stock_treemap.ipynb)
 
-<img src="images/tw_stock_treemap.PNG?raw=true"/>
+<img src="images/tw_stock_treemap.png?raw=true"/>
 
 ---
 [Loan Approval Prediction](/Loan-Approval-Prediction)
