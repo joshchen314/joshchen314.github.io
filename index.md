@@ -1,8 +1,17 @@
 ## Portfolio
 
 ---
+[Taiwan Stocks Market Treemap](/tw_stock_treemap)
 
+This project emulates this concept to exhibit the performance and trends of Taiwan's stock sectors, providing a clear, comprehensive and beautiful snapshot of market dynamics. 
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+
+[View code on Github](https://github.com/joshchen314/tw_stock_treemap/blob/main/tw_stock_treemap.ipynb)
+
+<img src="images/tw_stock_treemap.PNG?raw=true"/>
+
+---
 [Loan Approval Prediction](/Loan-Approval-Prediction)
 
 The project's goal is to predict whether a loan will not be paid back rather than if a loan is paid back. After data exploration, preprocessing and model training, the web app with ML model will be deployed at HuggingFace Hub.
